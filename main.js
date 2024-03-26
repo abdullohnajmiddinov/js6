@@ -23,7 +23,7 @@ if(Man === 0 && Kompyuter === 0) {
 }
 
 else if(Man === 0 && Kompyuter === 1) {
-    alert('Komputer galaba qozondi ')
+    alert('Siz galaba qozondingiz')
 }
 
 else if(Man === 0 && Kompyuter === 2) {
